@@ -1,6 +1,6 @@
 # microservise-user
 
-Microservice for course CRUD
+Microservice for user CRUD
 
 #### Requirement
 
@@ -9,8 +9,8 @@ Microservice for course CRUD
 
 ### Technologies
 
-Spring Boot 2.3.4
-H2 
+* Spring Boot 2.3.4
+* Mongo 
 
 #### Run Locally
 
@@ -23,5 +23,5 @@ build.sh
 To run using maven execute the following script
 
 ```
-./mvnw clean spring-boot:run 
+./mvnw clean spring-boot:run
 ```
